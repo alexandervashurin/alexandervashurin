@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @alexandervashurin
-- 👀 I’m interested in Python3, Scala, Linux
-- 🌱 I’m currently learning Kotlin and Flutter
-- 📫 How to reach me alexandervashurin@yandex.ru
+- 👀 Мне интересно Python3, Scala, kotlin-multiplatform, Linux
+- 🌱 Сейчас мои задачи больше исследовательские
+- 📫 Пишите на мою почту alexandervashurin@yandex.ru
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexandervashurin)](https://github.com/anuraghazra/github-readme-stats)
 
