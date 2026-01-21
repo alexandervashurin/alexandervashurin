@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @alexandervashurin
-- 👀 Мне интересно Python3, Scala, Flutter/Dart,  rust, Linux
+- 👀 Мне интересно Python3, Scala, Flutter/Dart,  Rust, Linux
 - 🌱 Сейчас мои задачи больше исследовательские
 - 📫 Пишите на мою почту alexandervashurin@yandex.ru
 
