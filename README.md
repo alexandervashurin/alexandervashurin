@@ -2,6 +2,7 @@
 - 👀 Мне интересно Python3, Clojure, Scala, Flutter/Dart,  Rust, Linux
 - 🌱 Сейчас мои задачи больше исследовательские
 - 📫 Пишите на мою почту alexandervashurin@yandex.ru
+- YooMoney: 410011387446163
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexandervashurin)](https://github.com/anuraghazra/github-readme-stats)
 
